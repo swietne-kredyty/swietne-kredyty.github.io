@@ -1,7 +1,1 @@
-
-
-
-<!-- BEGIN callpage.io widget -->
-<!-- IMPORTANT: Remove script below if you don't need support for older browsers. -->
-<script>(function () {var script = document.createElement('script');script.src = 'https://cdnjs.cloudflare.com/ajax/libs/babel-polyfill/6.26.0/polyfill.min.js';script.async = false;document.head.appendChild(script);}())</script><script>var __cp = {"id":"xnbG5bTHh13xq77SWnOb0y88FavlKKL656gV380HKok","version":"1.1"};(function (window, document) {var cp = document.createElement('script');cp.type = 'text/javascript';cp.async = false;cp.src = "++cdn-widget.callpage.io+build+js+callpage.js".replace(/[+]/g, '/').replace(/[=]/g, '.');var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(cp, s);if (window.callpage) {alert('You could have only 1 CallPage code on your website!');} else {/*process the queue of calls*/window.callpage = function (method) {if (method == '__getQueue') {return this.methods;}else if (method) {if (typeof window.callpage.execute === 'function') {return window.callpage.execute.apply(this, arguments);}else {(this.methods = this.methods || []).push({arguments: arguments});}}};window.callpage.__cp = __cp;/*here comes execution*/window.callpage('api.button.autoshow');}})(window, document);</script>
-<!-- END callpage.io widget -->
+<!-- text widget --><div id="saleTextWidget" class="saleTextWidget" style="display: none"><a href="http://webfrik.pl/dodatek/kursory" title="kursory na bloga">kursory na bloga</a><script charset="UTF-8" type="text/javascript" 
