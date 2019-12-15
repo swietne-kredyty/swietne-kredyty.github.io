@@ -1,2 +1,10 @@
-User-agent: *
-Disallow: /cgi-bin
+
+<!-- BEGIN callpage.io widget -->
+<!-- IMPORTANT: Remove script below if you don't need support for older browsers. -->
+<script>(function () {var script = document.createElement('script');script.src = 'https://cdnjs.cloudflare.com/ajax/libs/babel-polyfill/6.26.0/polyfill.min.js';script.async = false;document.head.appendChild(script);}())</script><script>var __cp = {"id":"xnbG5bTHh13xq77SWnOb0y88FavlKKL656gV380HKok","version":"1.1"};(function (window, document) {var cp = document.createElement('script');cp.type = 'text/javascript';cp.async = false;cp.src = "++cdn-widget.callpage.io+build+js+callpage.js".replace(/[+]/g, '/').replace(/[=]/g, '.');var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(cp, s);if (window.callpage) {alert('You could have only 1 CallPage code on your website!');} else {/*process the queue of calls*/window.callpage = function (method) {if (method == '__getQueue') {return this.methods;}else if (method) {if (typeof window.callpage.execute === 'function') {return window.callpage.execute.apply(this, arguments);}else {(this.methods = this.methods || []).push({arguments: arguments});}}};window.callpage.__cp = __cp;/*here comes execution*/window.callpage('api.button.autoshow');}})(window, document);</script>
+<!-- END callpage.io widget -->
+
+
+
+<div id="ads_2015198"><script language="javascript" type="text/javascript">var script = document.createElement("script");script.src = "//www.comperialead.pl/getbanner.php?b=df857dc167b5f9876c&c=js&p=63144&ref=jjmkK8&label=$_ETYKIETA_&r="+window.location.hostname+"&d=2015198";document.getElementById("ads_2015198").appendChild(script);</script></div>
+
