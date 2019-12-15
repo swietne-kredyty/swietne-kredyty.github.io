@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-12-15_1605",
-    "currentPage": "index.html",
+    "currentPage": "httpsswietne-kredyty.github.io.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -24,21 +24,21 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.11.6",
     "siteFonts": [],
-    "google-analytics": "<!-- text widget --><div id=\"saleTextWidget\" class=\"saleTextWidget\" style=\"display: none\"><a href=\"http://webfrik.pl/dodatek/kursory\" title=\"kursory na bloga\">kursory na bloga</a><script charset=\"UTF-8\" type=\"text/javascript\" ",
+    "google-analytics": "",
     "robotsSwitcher": true,
-    "robotsText": "<!-- text widget --><div id=\"saleTextWidget\" class=\"saleTextWidget\" style=\"display: none\"><a href=\"http://webfrik.pl/dodatek/kursory\" title=\"kursory na bloga\">kursory na bloga</a><script charset=\"UTF-8\" type=\"text/javascript\" \n",
+    "robotsText": "\n",
     "favicon": false,
-    "noImageResize": true,
-    "sitemapSwitcher": true,
+    "noImageResize": false,
+    "sitemapSwitcher": false,
     "sitemapSwitcherAuto": "on",
-    "siteUrl": "https://swietne-kredyty.github.io/",
+    "siteUrl": false,
     "gdpr": false,
     "cookiesAlert": false,
     "uniqCompNum": 3,
     "versionPublish": "4.11.6"
   },
   "pages": {
-    "index.html": {
+    "httpsswietne-kredyty.github.io.html": {
       "settings": {
         "main": true,
         "title": "Home",
@@ -121,7 +121,7 @@
               "src": "@PROJECT_PATH@/assets/images/logo.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://swietne-kredyty.github.io",
+              "link": "https://swietne-kredyty.github.io/",
               "title": "",
               "linkInNewWindow": false
             },

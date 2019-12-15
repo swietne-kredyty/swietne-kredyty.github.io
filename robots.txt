@@ -1,1 +1,1 @@
-<!-- text widget --><div id="saleTextWidget" class="saleTextWidget" style="display: none"><a href="http://webfrik.pl/dodatek/kursory" title="kursory na bloga">kursory na bloga</a><script charset="UTF-8" type="text/javascript" 
+
